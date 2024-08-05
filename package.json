@@ -1,0 +1,16 @@
+{
+  "name": "apify",
+  "version": "1.0.0",
+  "description": "technical exercise",
+  "main": "index.js",
+  "repository": "https://github.com/glennfaison/apify",
+  "author": "glennfaison@gmail.com",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
